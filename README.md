@@ -1,1 +1,2 @@
-Eric Ianni
+Jesse Stover
+stoverje@oregonstate.edu
